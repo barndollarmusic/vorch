@@ -1,4 +1,4 @@
-# Virtual Orchestra Guides, Presets, and Resources
+# Virtual Orchestra Guides, Templates, Presets, and Resources
 Put together by [Eric Barndollar](https://barndollarmusic.com). These are free
 to use &amp; share, with feedback and improvements appreciated!
 
